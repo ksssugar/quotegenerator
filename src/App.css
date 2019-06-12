@@ -1,0 +1,28 @@
+body {
+	align-items: center;
+}
+
+.quote-box {
+	border: solid black 5px;
+	border-top-right-radius: 20px;
+	width: 40%;
+	height: 300px;
+	margin: auto;
+	margin-top: 100px;
+	text-align: center;
+	box-shadow: 13px 11px 16px -6px rgba(0,0,0,0.75);
+}
+
+#text {
+	max-width: 500px;
+	max-height: 150px;
+	border: solid black 1px;
+	margin: auto;
+	word-wrap: break-word;
+	border-top-right-radius: 10px;
+}
+
+#new-quote {
+	border-radius: 15px 15px 15px 15px;
+	margin-top: 20px;
+}
